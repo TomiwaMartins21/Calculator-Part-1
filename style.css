@@ -21,6 +21,7 @@ body {
 }
 #result {
   height: 120px;
+  color: black;
 }
 #keyboard {
   height: 400px;
